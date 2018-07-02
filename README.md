@@ -1,4 +1,4 @@
-# The-code-in-the-book
+# The-code-in-the-book 
 书本中的代码实例
 
 ## 收录说明
@@ -9,3 +9,9 @@
 - JavaScript.DOM编程艺术(第2版)
 - JavaScript30@**wesbos** 
 - 《Vue.js实战》源码及答疑
+
+## License
+
+[MIT](http://opensource.org/licenses/MIT)
+
+ 
