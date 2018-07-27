@@ -10,6 +10,7 @@
 - [30 Day Vanilla JS Challenge ](https://github.com/wesbos/JavaScript30) - https://JavaScript30.com
 - [《Vue.js实战》源码及答疑](https://github.com/icarusion/vue-book)
 - [《深入浅出React和Redux》代码](https://github.com/mocheng/react-and-redux)
+- [全面的Webpack教程《深入浅出Webpack》](https://github.com/gwuhaolin/dive-into-webpack)
 
 ## License
 
