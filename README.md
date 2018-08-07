@@ -11,6 +11,7 @@
 - [《Vue.js实战》源码及答疑](https://github.com/icarusion/vue-book)
 - [《深入浅出React和Redux》代码](https://github.com/mocheng/react-and-redux)
 - [全面的Webpack教程《深入浅出Webpack》](https://github.com/gwuhaolin/dive-into-webpack)
+- [ leetcode - LeetCode solutions with JavaScript](https://github.com/hanzichi/leetcode)
 
 ## License
 
