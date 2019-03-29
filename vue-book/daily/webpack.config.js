@@ -47,7 +47,8 @@ var config = {
             filename: '[name].css',
             allChunks: true
         })
-    ]
+    ],
+    devtool: "cheap-module-eval-source-map"
 };
 
 module.exports = config;
